@@ -1,0 +1,20 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shahp/AndroidStudioProjects/WellpaperApp/app/src/main/res/drawable/btn_back.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/shahp/AndroidStudioProjects/WellpaperApp/app/src/main/res/drawable/search_back.xml" value="0.16302083333333334" />
+        <entry key="..\:/Users/shahp/AndroidStudioProjects/WellpaperApp/app/src/main/res/layout/activity_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/shahp/AndroidStudioProjects/WellpaperApp/app/src/main/res/layout/activity_wallpapar.xml" value="0.22" />
+        <entry key="..\:/Users/shahp/AndroidStudioProjects/WellpaperApp/app/src/main/res/layout/catagory_rv_item.xml" value="0.22" />
+        <entry key="..\:/Users/shahp/AndroidStudioProjects/WellpaperApp/app/src/main/res/layout/wallpaper_rv_item.xml" value="0.146875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
